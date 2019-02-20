@@ -1,1 +1,1 @@
-var baseUrl = 'ec2-18-219-227-127.us-east-2.compute.amazonaws.com:8080/'  
+var baseUrl = 'http://18.222.254.228:8080/'  
