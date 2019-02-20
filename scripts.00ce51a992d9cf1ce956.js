@@ -1,0 +1,1 @@
+var baseUrl="ec2-18-219-227-127.us-east-2.compute.amazonaws.com:8080/";
